@@ -1,0 +1,45 @@
+/*     Body   */
+
+body{
+    background: url("/images/Wet-Lamp-HD-Wallpapers.jpg")
+    no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, .subheader{
+    font-family: 'gafata', sans-serif;
+}
+h1, h2, h3, h4, h5, p, .subheader{
+    color:#fff;
+}
+#hero{
+    margin-top: 500px;
+    background: rgba(256, 154, 9, 0.7);
+    min-height: 500px;
+}
+#hero h1{padding-top: 20px;}
+#hero img{padding-top: 90px;}
+
+#signup{
+    margin-top: 300px;
+    background: #0ec8b0;
+    padding: 90px 0;
+}
+#three{
+    margin-top: 300px;
+    background: #00add8;
+    padding: 90px 0;
+}
+#lower{
+    margin-top: 300px;
+    background: #df86ca;
+    padding: 90px 0;
+}
+footer{
+    background: #333;
+    padding: 30px 0;
+}
